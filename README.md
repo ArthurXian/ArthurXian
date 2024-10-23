@@ -1,61 +1,61 @@
-# 🌟 Bienvenue sur mon GitHub ! 🌟
+# ✨ Bienvenue sur mon GitHub ! ✨
 
-👋 **Salut, je m'appelle** `Zihao-Arthur Xian` !  
-Je suis un **étudiant ingénieur** passionné par la **cybersécurité** et les nouvelles technologies. Actuellement, je suis inscrit à l'**Institut Supérieur d'Électronique de Paris** (ISEP), une école reconnue pour son enseignement en **ingénierie numérique** et ses spécialisations en **informatique**, **électronique**, et **cybersécurité**. 🎓💻
-
----
-
-## 🛠️ Compétences techniques
-
-| Langage  | Compétences            |
-|----------|------------------------|
-| 🐍 Python | ✔️                     |
-| ⚙️ JavaScript | ✔️                 |
-| 💻 SQL   | ✔️                      |
-| 🌐 HTML  | ✔️                      |
-| 🎨 CSS   | ✔️                      |
-| ⚛️ React | ✔️                    |
-| 📜 Latex  | ✔️                     |
-| 📊 Power BI | ✔️                   |
-
-🔧 Je maîtrise également des outils comme **Git** et la méthodologie **Agile** pour gérer et développer efficacement mes projets. Mon objectif est d'approfondir mes connaissances en **cybersécurité** et en **data science**.
+👋 Salut, je m'appelle **Zihao-Arthur Xian** !  
+Je suis un **étudiant ingénieur** passionné par la **cybersécurité** et les nouvelles technologies. Actuellement, je suis inscrit à l'**Institut Supérieur d'Électronique de Paris (ISEP)**, une école prestigieuse spécialisée dans les **sciences numériques**, **l'informatique**, **l'électronique**. 🎓💻
 
 ---
 
-## 🌐 Compétences linguistiques
+## 💻 Compétences techniques
 
-| Langue   | Niveau                |
-|----------|-----------------------|
-| 🀄 Chinois (Mandarin) | **Natif**   |
-| 🀄 Cantonais | **Natif**           |
-| 🇫🇷 Français | **C1**               |
-| 🇬🇧 Anglais  | **Intermédiaire**    |
+🔹 **Python** | ✔️  
+🔹 **JavaScript** | ✔️  
+🔹 **SQL** | ✔️  
+🔹 **HTML** | ✔️  
+🔹 **CSS** | ✔️  
+🔹 **React** | ✔️  
+🔹 **Latex** | ✔️  
+🔹 **Power BI** | ✔️
 
----
-
-## 🚀 Objectifs de formation
-
-Je me suis lancé dans mon parcours d'apprentissage par le **développement web**, en développant mes compétences en **HTML**, **CSS**, **JavaScript**, et **React**, avant de me diriger progressivement vers des domaines plus complexes comme la **cybersécurité**. Je continue d'explorer et d'améliorer mes compétences pour évoluer vers la **protection des systèmes** et la **prévention des attaques**.
+🌟 Je maîtrise également **Git** et la méthodologie **Agile** pour une gestion de projet efficace et collaborative.
 
 ---
 
-## 👥 GarageISEP
+## 🌍 Compétences linguistiques
 
-Je suis également membre du **GarageISEP**, une association étudiante dynamique à l'ISEP, qui se concentre sur des projets innovants en **informatique** et **technologies numériques**.  
-Au sein de cette association, je fais partie du département **Cyberlab**, où nous travaillons sur des projets de **cybersécurité** et explorons des sujets comme la **cryptographie**, la **sécurisation des réseaux**, et plus encore.
+| 🗣️ Langue            | Niveau                |
+|---------------------|-----------------------|
+| 🇨🇳 **Chinois**       | Natif                 |
+| 粤 **Cantonais**      | Natif                 |
+| 🇫🇷 **Français**      | C1                    |
+| 🇬🇧 **Anglais**       | Intermédiaire         |
+
+---
+
+## 🎯 Objectifs de formation
+
+Je suis parti du **développement web** avec des compétences en **HTML**, **CSS**, **JavaScript** et **React**, pour ensuite explorer des domaines plus complexes comme la **cybersécurité**.  
+Mon but est d'acquérir des compétences avancées en **protection des systèmes** et en **prévention des attaques**.
+
+---
+
+## 🚀 GarageISEP
+
+Je suis fier d'être membre de l'association **GarageISEP**, un hub d'innovation pour les étudiants d'ISEP.  
+Au sein du **Cyberlab**, nous travaillons sur des projets passionnants en **cybersécurité** et explorons des sujets tels que la **cryptographie** et la **sécurisation des réseaux**. 🔐🔍
 
 ---
 
 ## 🎵 Loisirs & intérêts
 
-🎸 **Musique** : Je joue de la guitare, je chante et je suis membre d'un groupe de musique.  
+🎸 **Musique** : Guitare et chant, je fais partie d'un groupe de musique.  
 🏀 **Sports** : Passionné de basketball et de musculation.  
-🍳 **Cuisiner** : J'adore expérimenter de nouvelles recettes et partager des moments autour d'une bonne table.
+🍳 **Cuisiner** : J'aime expérimenter de nouvelles recettes et partager des moments culinaires avec mes proches.
 
 ---
 
-## 📞 Me contacter
+## 📬 Me contacter
 
-📧 **Email** : xianzihao274@gmail.com  
+📧 **Email** : [xianzihao274@gmail.com](mailto:xianzihao274@gmail.com)  
 🌍 **Localisation** : Paris, France  
+
 
