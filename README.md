@@ -7,23 +7,35 @@ Je suis un **étudiant ingénieur** passionné par la **cybersécurité** et les
 
 ## 🛠️ Compétences techniques
 
-| Langage  | Technologies            |
+| Langage  | Compétences            |
 |----------|------------------------|
-| 🐍 Python |                        |
-| 💻 SQL   |                        |
-| 🌐 HTML  |                        |
-| 🎨 CSS   |                        |
-| ⚙️ JavaScript |                   |
-| 📊 Power BI |                     |
-| 📜 Latex  |                       |
+| 🐍 Python | ✔️                     |
+| ⚙️ JavaScript | ✔️                 |
+| 💻 SQL   | ✔️                      |
+| 🌐 HTML  | ✔️                      |
+| 🎨 CSS   | ✔️                      |
+| ⚛️ React | ✔️                    |
+| 📜 Latex  | ✔️                     |
+| 📊 Power BI | ✔️                   |
 
 🔧 Je maîtrise également des outils comme **Git** et la méthodologie **Agile** pour gérer et développer efficacement mes projets. Mon objectif est d'approfondir mes connaissances en **cybersécurité** et en **data science**.
 
 ---
 
+## 🌐 Compétences linguistiques
+
+| Langue   | Niveau                |
+|----------|-----------------------|
+| 🀄 Chinois (Mandarin) | **Natif**   |
+| 🀄 Cantonais | **Natif**           |
+| 🇫🇷 Français | **C1**               |
+| 🇬🇧 Anglais  | **Intermédiaire**    |
+
+---
+
 ## 🚀 Objectifs de formation
 
-Je me suis lancé dans mon parcours d'apprentissage par le **développement web**, en développant mes compétences en **HTML**, **CSS** et **JavaScript**, avant de me diriger progressivement vers des domaines plus complexes comme la **cybersécurité**. Je continue d'explorer et d'améliorer mes compétences pour évoluer vers la **protection des systèmes** et la **prévention des attaques**.
+Je me suis lancé dans mon parcours d'apprentissage par le **développement web**, en développant mes compétences en **HTML**, **CSS**, **JavaScript**, et **React**, avant de me diriger progressivement vers des domaines plus complexes comme la **cybersécurité**. Je continue d'explorer et d'améliorer mes compétences pour évoluer vers la **protection des systèmes** et la **prévention des attaques**.
 
 ---
 
@@ -46,3 +58,4 @@ Au sein de cette association, je fais partie du département **Cyberlab**, où n
 
 📧 **Email** : xianzihao274@gmail.com  
 🌍 **Localisation** : Paris, France  
+
